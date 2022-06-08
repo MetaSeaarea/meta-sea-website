@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+MetaSeaarea is a blockchain gaming universe that combines NFT, and DeFi with game to create a virtual sea world full of surprises for users. User are able to venture into different sea areas, conquer the unknown civilizations, or start a leisurely life as island owners. Our mission is to bring the ultimate gaming experience to players.
+![](https://whitepager.metaseaarea.game/images/public/overview.webp)
+MetaSeaarea's main source of revenue will come from game protocols and NFT sales. The core of these numbers will be our player base, and a complete and mature game economic model will ensure the long-term stable operation of the game. Users participate in the construction and management of the game community, and also deeply participate in the development of the game. Unlike the other blockchain projects, the biggest holder of game tokens is not the in-house team, but every user and organization who contribute to and support MetaSeaarea.
